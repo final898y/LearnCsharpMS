@@ -1,0 +1,15 @@
+E:\Code\LearnCsharpMS\ifTestProject\bin\Debug\net8.0\ifTestProject.exe
+E:\Code\LearnCsharpMS\ifTestProject\bin\Debug\net8.0\ifTestProject.deps.json
+E:\Code\LearnCsharpMS\ifTestProject\bin\Debug\net8.0\ifTestProject.runtimeconfig.json
+E:\Code\LearnCsharpMS\ifTestProject\bin\Debug\net8.0\ifTestProject.dll
+E:\Code\LearnCsharpMS\ifTestProject\bin\Debug\net8.0\ifTestProject.pdb
+E:\Code\LearnCsharpMS\ifTestProject\obj\Debug\net8.0\ifTestProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\LearnCsharpMS\ifTestProject\obj\Debug\net8.0\ifTestProject.AssemblyInfoInputs.cache
+E:\Code\LearnCsharpMS\ifTestProject\obj\Debug\net8.0\ifTestProject.AssemblyInfo.cs
+E:\Code\LearnCsharpMS\ifTestProject\obj\Debug\net8.0\ifTestProject.csproj.CoreCompileInputs.cache
+E:\Code\LearnCsharpMS\ifTestProject\obj\Debug\net8.0\ifTestProject.sourcelink.json
+E:\Code\LearnCsharpMS\ifTestProject\obj\Debug\net8.0\ifTestProject.dll
+E:\Code\LearnCsharpMS\ifTestProject\obj\Debug\net8.0\refint\ifTestProject.dll
+E:\Code\LearnCsharpMS\ifTestProject\obj\Debug\net8.0\ifTestProject.pdb
+E:\Code\LearnCsharpMS\ifTestProject\obj\Debug\net8.0\ifTestProject.genruntimeconfig.cache
+E:\Code\LearnCsharpMS\ifTestProject\obj\Debug\net8.0\ref\ifTestProject.dll
