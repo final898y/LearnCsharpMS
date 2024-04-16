@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\LearnCsharpMS\\TestProject\\TestProject.csproj": {}
+    "E:\\Code\\LearnCsharpMS\\01_TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "E:\\Code\\LearnCsharpMS\\TestProject\\TestProject.csproj": {
+    "E:\\Code\\LearnCsharpMS\\01_TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\LearnCsharpMS\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "E:\\Code\\LearnCsharpMS\\01_TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "E:\\Code\\LearnCsharpMS\\TestProject\\TestProject.csproj",
+        "projectPath": "E:\\Code\\LearnCsharpMS\\01_TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\final\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\LearnCsharpMS\\TestProject\\obj\\",
+        "outputPath": "E:\\Code\\LearnCsharpMS\\01_TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

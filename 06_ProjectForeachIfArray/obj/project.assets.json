@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\LearnCsharpMS\\TestProject\\TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "E:\\Code\\LearnCsharpMS\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "E:\\Code\\LearnCsharpMS\\06_ProjectForeachIfArray\\Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "E:\\Code\\LearnCsharpMS\\06_ProjectForeachIfArray\\Starter.csproj",
       "packagesPath": "C:\\Users\\final\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\LearnCsharpMS\\TestProject\\obj\\",
+      "outputPath": "E:\\Code\\LearnCsharpMS\\06_ProjectForeachIfArray\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
