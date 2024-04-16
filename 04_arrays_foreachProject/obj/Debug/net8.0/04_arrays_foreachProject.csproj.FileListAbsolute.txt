@@ -1,0 +1,15 @@
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\bin\Debug\net8.0\04_arrays_foreachProject.exe
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\bin\Debug\net8.0\04_arrays_foreachProject.deps.json
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\bin\Debug\net8.0\04_arrays_foreachProject.runtimeconfig.json
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\bin\Debug\net8.0\04_arrays_foreachProject.dll
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\bin\Debug\net8.0\04_arrays_foreachProject.pdb
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\obj\Debug\net8.0\04_arrays_foreachProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\obj\Debug\net8.0\04_arrays_foreachProject.AssemblyInfoInputs.cache
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\obj\Debug\net8.0\04_arrays_foreachProject.AssemblyInfo.cs
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\obj\Debug\net8.0\04_arrays_foreachProject.csproj.CoreCompileInputs.cache
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\obj\Debug\net8.0\04_arrays_foreachProject.sourcelink.json
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\obj\Debug\net8.0\04_arrays_foreachProject.dll
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\obj\Debug\net8.0\refint\04_arrays_foreachProject.dll
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\obj\Debug\net8.0\04_arrays_foreachProject.pdb
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\obj\Debug\net8.0\04_arrays_foreachProject.genruntimeconfig.cache
+E:\Code\LearnCsharpMS\04_arrays_foreachProject\obj\Debug\net8.0\ref\04_arrays_foreachProject.dll

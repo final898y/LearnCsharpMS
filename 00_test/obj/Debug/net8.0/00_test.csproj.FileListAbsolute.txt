@@ -1,0 +1,15 @@
+E:\Code\LearnCsharpMS\00_test\bin\Debug\net8.0\00_test.exe
+E:\Code\LearnCsharpMS\00_test\bin\Debug\net8.0\00_test.deps.json
+E:\Code\LearnCsharpMS\00_test\bin\Debug\net8.0\00_test.runtimeconfig.json
+E:\Code\LearnCsharpMS\00_test\bin\Debug\net8.0\00_test.dll
+E:\Code\LearnCsharpMS\00_test\bin\Debug\net8.0\00_test.pdb
+E:\Code\LearnCsharpMS\00_test\obj\Debug\net8.0\00_test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\LearnCsharpMS\00_test\obj\Debug\net8.0\00_test.AssemblyInfoInputs.cache
+E:\Code\LearnCsharpMS\00_test\obj\Debug\net8.0\00_test.AssemblyInfo.cs
+E:\Code\LearnCsharpMS\00_test\obj\Debug\net8.0\00_test.csproj.CoreCompileInputs.cache
+E:\Code\LearnCsharpMS\00_test\obj\Debug\net8.0\00_test.sourcelink.json
+E:\Code\LearnCsharpMS\00_test\obj\Debug\net8.0\00_test.dll
+E:\Code\LearnCsharpMS\00_test\obj\Debug\net8.0\refint\00_test.dll
+E:\Code\LearnCsharpMS\00_test\obj\Debug\net8.0\00_test.pdb
+E:\Code\LearnCsharpMS\00_test\obj\Debug\net8.0\00_test.genruntimeconfig.cache
+E:\Code\LearnCsharpMS\00_test\obj\Debug\net8.0\ref\00_test.dll
