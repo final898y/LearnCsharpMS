@@ -1,0 +1,15 @@
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\bin\Debug\net8.0\08_EvaluateAnExpression.exe
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\bin\Debug\net8.0\08_EvaluateAnExpression.deps.json
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\bin\Debug\net8.0\08_EvaluateAnExpression.runtimeconfig.json
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\bin\Debug\net8.0\08_EvaluateAnExpression.dll
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\bin\Debug\net8.0\08_EvaluateAnExpression.pdb
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\obj\Debug\net8.0\08_EvaluateAnExpression.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\obj\Debug\net8.0\08_EvaluateAnExpression.AssemblyInfoInputs.cache
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\obj\Debug\net8.0\08_EvaluateAnExpression.AssemblyInfo.cs
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\obj\Debug\net8.0\08_EvaluateAnExpression.csproj.CoreCompileInputs.cache
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\obj\Debug\net8.0\08_EvaluateAnExpression.sourcelink.json
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\obj\Debug\net8.0\08_EvaluateAnExpression.dll
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\obj\Debug\net8.0\refint\08_EvaluateAnExpression.dll
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\obj\Debug\net8.0\08_EvaluateAnExpression.pdb
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\obj\Debug\net8.0\08_EvaluateAnExpression.genruntimeconfig.cache
+E:\Code\LearnCsharpMS\08_EvaluateAnExpression\obj\Debug\net8.0\ref\08_EvaluateAnExpression.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("04_arrays_foreachProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93b2e7aa11c77f5c1240125310969279b33823f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7de7792752a66d3c1ac953c15fcd863368a45ef")]
 [assembly: System.Reflection.AssemblyProductAttribute("04_arrays_foreachProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("04_arrays_foreachProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
